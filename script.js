@@ -57,7 +57,7 @@ window.onload = () => {
 }
 
 /*
-Função para renderizar filmes na tela
+Função para renderizar filmes nas telas
 */
 
 
